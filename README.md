@@ -60,3 +60,6 @@ If you copy this folder to another computer, follow these steps:
 
 ## Results
 Check `prediction_results.png` to see a graph of the Actual vs Predicted values on the test set.
+_
+**DATASET LINK** 
+   https://www.kaggle.com/code/winternguyen/predict-household-electric-power-using-lstm/input
